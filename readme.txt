@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 try git diff command
 Creating branch is quick
+Creating new branch is quick & simple
